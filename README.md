@@ -1,4 +1,4 @@
-# Imersao_Alura_Alimentacao_seu_Bolso
+# Imersao_Alura_Alimentacao_no_seu_Bolso
 😫 A inflação nos alimentos está apertando o seu orçamento? Chegou a solução inteligente para você se alimentar bem sem pesar no bolso! Nosso chatbot revolucionário cria um plano alimentar semanal totalmente personalizado e acessível em poucos minutos, feito sob medida para as suas necessidades e preferências.
 
 Imagine ter em mãos:
